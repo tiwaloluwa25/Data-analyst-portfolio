@@ -1,4 +1,3 @@
-# Data-analyst-portfolio
 # 📊 Data Analyst Portfolio – OGUNOYE TIWALOLUWA
 Welcome to my data analytics portfolio. I am a Data Analyst skilled in **SQL, Power BI, Excel, and data visualization**, focused on transforming raw data into actionable business insights that support decision-making and improve performance.
 --- 
